@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "is-number": "github:jonschlinkert/is-number#98e8ff1",
     "lodash": "4.18.1"
   }
 }
